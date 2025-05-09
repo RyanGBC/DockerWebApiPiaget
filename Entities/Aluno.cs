@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Entities
 {
+    /// <summary>
+    /// Classe Aluno e suas propiedades
+    /// </summary>
     public class Aluno
     {
         public Guid id { get; set; }
